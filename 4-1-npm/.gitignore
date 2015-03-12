@@ -1,1 +1,3 @@
+# ensure that the node_modules folder is not added to our git repository
+# this folder is rebuilt with the command `npm install`
 node_modules
