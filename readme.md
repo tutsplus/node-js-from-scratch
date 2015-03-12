@@ -4,7 +4,7 @@ Node.js is an amazing platform. It is the V8 JavaScript that Google Chrome uses 
 
 This repository contains the examples that were built in each lesson.
 
-These are source files for the Tuts+ course: Node.js from Scratch][published url]
+These are source files for the Tuts+ course: [Node.js from Scratch][published url]
 
 Available on [Tuts+](https://tutsplus.com) March, 2015
 
