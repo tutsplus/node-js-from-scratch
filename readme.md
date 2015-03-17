@@ -8,4 +8,4 @@ These are source files for the Tuts+ course: [Node.js from Scratch][published ur
 
 Available on [Tuts+](https://tutsplus.com) March, 2015
 
-[published url]: https://code.tutsplus.com/courses
+[published url]: https://code.tutsplus.com/courses/nodejs-from-scratch
